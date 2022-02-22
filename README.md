@@ -2,19 +2,19 @@
 
 A portfolio website template for campers
 
-![jane-doe](jane-shot.png)
+![Tarun-Sharma](assets/images/IMG_20210103_221115.jpg)
 
 ## Author
 
-[@koladechris](https://www.twitter.com/koladechris)
+<!-- [@koladechris](https://www.twitter.com/koladechris) -->
 
 ## Github repo
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+<!-- This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project -->
 
 ## Sample Website
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+<!-- A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?) -->
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ For the form submission, formspree was used. You can get a hands-on tutorial on 
 
 In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
 
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
+<!-- If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris). -->
 
 ## Acknowledgements
 
